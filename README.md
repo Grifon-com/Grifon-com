@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Grigoryi</h1>
-<h3 align="center">A passionate IOS-developer from Belarus</h3>
+<h3 align="center">A beginning IOS-developer from Belarus</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grifon-com&label=Profile%20views&color=0e75b6&style=flat" alt="grifon-com" /> </p>
 
-- 🔭 I’m currently working on [Tracker](https://github.com/Grifon-com/Tracker)
+## My pet-projects
 
-- 🌱 I’m currently learning **combine**
+[NFTMarket](https://github.com/Crowru/NFTMarket) - The application helps users to view and buy NFT
 
-- 👯 I’m looking to collaborate on [ImageFeed](https://github.com/Grifon-com/ImageFeed)
+[Tracker](https://github.com/Crowru/Tracker) - The application helps to form useful habits
 
-- 🤝 I’m looking for help with [Muvie-Quiz](https://github.com/Grifon-com/MovieQuiz-ios)
+[Image Feed](https://github.com/Crowru/ImageFeed) - The multi-page application is designed to view images via the Unsplash API
+
+[Movie Quiz](https://github.com/Crowru/MovieQuiz-ios) - An application with quizzes about films from the top 250 rating and the most popular films according to IMDb.
 
 - 📫 How to reach me **mashukgrisha@mail.ru**
 
