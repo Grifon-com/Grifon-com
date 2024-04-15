@@ -17,6 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/grifon.com_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="grifon.com_" height="30" width="40" /></a>
+<a href="https://instagram.com/grifon.com_" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://ru.freepik.com/free-photo/character-holding-a-blue-symbol_955185.htm#query=email&position=42&from_view=keyword&track=ais&uuid=146bd267-674a-462e-8668-59620276a3b0)" alt="grifon.com_" height="30" width="40" /></a>
 </p>
 - ✉️ You can shoot me an email at [mashukgrisha@mail.ru](mailto:mashukgrisha@mail.ru)
 
