@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grifon-com&label=Profile%20views&color=0e75b6&style=flat" alt="grifon-com" /> </p>
 
-## My pet-projects
+## Pet-projects
 
 [NFTMarket](https://github.com/Grifon-com/iOS-FakeNFT-StarterProject-Public) - The application helps users to view and buy NFT
 
