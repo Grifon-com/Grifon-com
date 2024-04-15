@@ -13,9 +13,9 @@
 
 [Movie Quiz](https://github.com/Grifon-com/MovieQuiz-ios) - An application with quizzes about films from the top 250 rating and the most popular films according to IMDb.
 
-- 📫 How to reach me **mashukgrisha@mail.ru**
 
 <h3 align="left">Connect with me:</h3>
+<p - 📫 How to reach me **mashukgrisha@mail.ru**>
 <p align="left">
 <a href="https://instagram.com/grifon.com_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="grifon.com_" height="30" width="40" /></a>
 </p>
