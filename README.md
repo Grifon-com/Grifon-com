@@ -5,13 +5,13 @@
 
 ## My pet-projects
 
-[NFTMarket](https://github.com/Crowru/NFTMarket) - The application helps users to view and buy NFT
+[NFTMarket](https://github.com/Grifon-com/iOS-FakeNFT-StarterProject-Public) - The application helps users to view and buy NFT
 
-[Tracker](https://github.com/Crowru/Tracker) - The application helps to form useful habits
+[Tracker](https://github.com/Grifon-com/Tracker) - The application helps to form useful habits
 
-[Image Feed](https://github.com/Crowru/ImageFeed) - The multi-page application is designed to view images via the Unsplash API
+[Image Feed](https://github.com/Grifon-com/ImageFeed) - The multi-page application is designed to view images via the Unsplash API
 
-[Movie Quiz](https://github.com/Crowru/MovieQuiz-ios) - An application with quizzes about films from the top 250 rating and the most popular films according to IMDb.
+[Movie Quiz](https://github.com/Grifon-com/MovieQuiz-ios) - An application with quizzes about films from the top 250 rating and the most popular films according to IMDb.
 
 - 📫 How to reach me **mashukgrisha@mail.ru**
 
