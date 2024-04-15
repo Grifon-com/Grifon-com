@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/grifon.com_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="grifon.com_" height="30" width="40" /></a>
-<a href="https://instagram.com/grifon.com_" target="blank"><img align="center" src="https://media.istockphoto.com/id/872947326/ru/%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F/%D0%BF%D0%BE%D1%87%D1%82%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80-%D0%BF%D0%BB%D0%BE%D1%81%D0%BA%D0%B8%D0%B9-%D0%B7%D0%BD%D0%B0%D1%87%D0%BE%D0%BA.jpg?s=1024x1024&w=is&k=20&c=hayvWywz96r1AdB6qas0ufNv4L6orDYqYDieiY7bJ1Q=" alt="mashukgrisha@mail.ru" height="30" width="40" /></a>
+<a href="mashukgrisha@mail.ru" target="blank"><img align="center" src="https://media.istockphoto.com/id/872947326/ru/%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F/%D0%BF%D0%BE%D1%87%D1%82%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80-%D0%BF%D0%BB%D0%BE%D1%81%D0%BA%D0%B8%D0%B9-%D0%B7%D0%BD%D0%B0%D1%87%D0%BE%D0%BA.jpg?s=1024x1024&w=is&k=20&c=hayvWywz96r1AdB6qas0ufNv4L6orDYqYDieiY7bJ1Q=" alt="mashukgrisha@mail.ru" height="30" width="40" /></a>
 </p>
 - ✉️ You can shoot me an email at [mashukgrisha@mail.ru](mailto:mashukgrisha@mail.ru)
 
